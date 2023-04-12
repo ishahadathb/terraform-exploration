@@ -1,1 +1,4 @@
-firebase/terraform-firebase-sa.json
+firebase/provisioner-sa.json
+*/.terraform
+*/state
+*/state.backup
